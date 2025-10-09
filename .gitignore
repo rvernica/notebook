@@ -1,0 +1,3 @@
+llm/phi-3-4b/config.json
+llm/phi-3-4b/generation_config.json
+llm/phi-3-4b/model.safetensors
